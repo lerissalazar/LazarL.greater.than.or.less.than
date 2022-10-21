@@ -1,0 +1,15 @@
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\greater.than.or.less.than\bin\Debug\net6.0\greater.than.or.less.than.exe
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\greater.than.or.less.than\bin\Debug\net6.0\greater.than.or.less.than.deps.json
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\greater.than.or.less.than\bin\Debug\net6.0\greater.than.or.less.than.runtimeconfig.json
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\greater.than.or.less.than\bin\Debug\net6.0\greater.than.or.less.than.dll
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\greater.than.or.less.than\bin\Debug\net6.0\greater.than.or.less.than.pdb
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\greater.than.or.less.than\obj\Debug\net6.0\greater.than.or.less.than.csproj.AssemblyReference.cache
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\greater.than.or.less.than\obj\Debug\net6.0\greater.than.or.less.than.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\greater.than.or.less.than\obj\Debug\net6.0\greater.than.or.less.than.AssemblyInfoInputs.cache
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\greater.than.or.less.than\obj\Debug\net6.0\greater.than.or.less.than.AssemblyInfo.cs
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\greater.than.or.less.than\obj\Debug\net6.0\greater.than.or.less.than.csproj.CoreCompileInputs.cache
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\greater.than.or.less.than\obj\Debug\net6.0\greater.than.or.less.than.dll
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\greater.than.or.less.than\obj\Debug\net6.0\refint\greater.than.or.less.than.dll
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\greater.than.or.less.than\obj\Debug\net6.0\greater.than.or.less.than.pdb
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\greater.than.or.less.than\obj\Debug\net6.0\greater.than.or.less.than.genruntimeconfig.cache
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\greater.than.or.less.than\obj\Debug\net6.0\ref\greater.than.or.less.than.dll
